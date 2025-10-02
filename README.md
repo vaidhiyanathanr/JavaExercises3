@@ -1,7 +1,9 @@
-# Java-trial
+# Java Exercises - OO
 
 ## TODO
-
-Java Class path error
-
-Why does clicking the run button not work, but the terminal does?
+The instructions are present in each classes. Go through them in the following order:
+- BankAccount.java
+- BankAccountWithInterest.java
+- CurrentAccount.java
+- DepositAccount.java
+- More Tasks.txt
