@@ -1,4 +1,4 @@
-package task3.oo;
+package oo;
 
 
 /**
