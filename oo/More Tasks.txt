@@ -1,0 +1,7 @@
+Project Manager: There is nothing like a Bank Account in real life. It is either a Current Account or Savings Account or Deposit Account. Do not allow the clients or the main method to allow creating an object of BankAccount because it doesn't make sense.
+-What would you do to fix this?
+
+Team Leader: The bank account number must be 15 digits long and it should contain only digits. Currently your code can accept any alphanumeric values. You need to fix this.
+- Where would you add the validation and how would you ensure that the result of validation is clearly indicated to the caller.
+
+Hint: use Character.isDigit if needed.
